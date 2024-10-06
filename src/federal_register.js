@@ -103,9 +103,4 @@ class FederalRegister {
 	}
 }
 
-async function main() {
-	const federalRegister = new FederalRegister()
-	const agencies = await federalRegister.getAgencies()
-	console.log(agencies)
-}
-main()
+module.exports = {FederalRegister}

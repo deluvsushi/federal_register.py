@@ -1,4 +1,4 @@
-# federal_register.py
+# federal_register.js
 Web-API for [federalregister.gov](https://www.federalregister.gov) website which is the official journal of the federal government of the United States that contains government agency rules, proposed rules, and public notices
 
 ## Example
